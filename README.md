@@ -31,7 +31,8 @@
 <a href="https://www.linkedin.com/in/konstantin-mazurow-626453137/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"> 
 <a href="https://www.facebook.com/mazurow.konstantin"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge">
 <a href="https://www.instagram.com/mazurowkonstantin/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
-
+<a href="https://www.reddit.com/user/LazyGrodno"> <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge">
+  
 ---
   ### :hammer_and_wrench: Languages and Tools :
   <div>
