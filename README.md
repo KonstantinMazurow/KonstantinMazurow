@@ -8,8 +8,8 @@
 
 
 
-**Hi!! My name is Konstantin. This is my student GitHub page. I am from Belarus.**
-  <img src="https://media.giphy.com/media/mDNA0yPH6YOx8MWeJB/giphy.gif" width="40" height="20"/>
+**Hi there 👋 I'm Konstantin 👨‍💻**
+  
 <div>
   
 ---
