@@ -25,9 +25,11 @@
 
 - :mailbox: How to reach me: 
   
-  - <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>    konstantin.mazurow@gmail.com
+  -  konstantin.mazurow@gmail.com
   
   - <a href="https://www.linkedin.com/in/konstantin-mazurow-626453137/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  
+  -<a href="https://www.facebook.com/mazurow.konstantin"> <img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white alt="Facebook Badge"/>
   
   -  <a href="konstantin.mazurow@gmail.com"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 
