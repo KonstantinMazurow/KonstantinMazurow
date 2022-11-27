@@ -2,19 +2,16 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-
-</div id="count" align="center"> 
+</div align="center"> 
    <img src="https://komarev.com/ghpvc/?username=KonstantinMazurow&style=flat-square&color=blue" alt=""/>
-
 
 <h1 align='center'>
 Hi there 👋 I'm Konstantin 👨‍💻
 </h1>
-
   
 ---
 
-<<div align='center'>
+<div align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
@@ -23,6 +20,7 @@ Hi there 👋 I'm Konstantin 👨‍💻
 <div>
  
 ---
+<div>
   
 ### 💻 About Me :
 
@@ -35,7 +33,7 @@ Hi there 👋 I'm Konstantin 👨‍💻
 - :mailbox: How to reach me: 
   
   -  konstantin.mazurow@gmail.com
-  
+<div> 
 <div align="center"> 
 <a href="https://www.linkedin.com/in/konstantin-mazurow-626453137/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"> 
 <a href="https://www.facebook.com/mazurow.konstantin"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge">
@@ -44,11 +42,11 @@ Hi there 👋 I'm Konstantin 👨‍💻
 
   
 ---
-  ### :hammer_and_wrench: Languages and Tools :
-  <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/color/512/c-plus-plus-logo.png" title="С++" alt="С++" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2560px-Blender_logo_no_text.svg.png" title="Blender" alt="Blender" width="40" height="40"/>
+### :hammer_and_wrench: Languages and Tools :
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/color/512/c-plus-plus-logo.png" title="С++" alt="С++" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2560px-Blender_logo_no_text.svg.png" title="Blender" alt="Blender" width="40" height="40"/>
 
 ---
 
