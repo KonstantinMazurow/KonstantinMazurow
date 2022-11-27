@@ -29,7 +29,7 @@
   
   - <a href="https://www.linkedin.com/in/konstantin-mazurow-626453137/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   
-  -  <a href="https://www.instagram.com/mazurowkonstantin/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  -  <a href="konstantin.mazurow@gmail.com"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 
 ---
   ### :hammer_and_wrench: Languages and Tools :
