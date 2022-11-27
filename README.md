@@ -32,7 +32,7 @@ Hi there 👋 I'm Konstantin 👨‍💻
 
 - :mailbox: How to reach me: 
   
-  -  konstantin.mazurow@gmail.com
+konstantin.mazurow@gmail.com
 <div> 
 <div align="center"> 
 <a href="https://www.linkedin.com/in/konstantin-mazurow-626453137/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"> 
