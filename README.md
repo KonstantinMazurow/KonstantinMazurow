@@ -19,7 +19,7 @@
 
 - 💻 I'm studying to be a Python web application developer.
 
-- 💻 Trained as a developer in C++.
+- 💻 Completed a development course in the C++.
   
 - 💻 Blender 3D modeler.
 
