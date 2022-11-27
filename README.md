@@ -7,9 +7,10 @@
    <img src="https://komarev.com/ghpvc/?username=KonstantinMazurow&style=flat-square&color=blue" alt=""/>
 
 
-<div align="center">
-**Hi there 👋 I'm Konstantin 👨‍💻**
-<div>
+<h1 align='center'>
+Hi there 👋 I'm Konstantin 👨‍💻
+</h1>
+
   
 ---
 
