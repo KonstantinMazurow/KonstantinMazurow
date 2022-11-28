@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-<div>
+</div>
 
 <div align="center"> 
-   <img src="https://komarev.com/ghpvc/?username=KonstantinMazurow&style=flat-square&color=blue" alt=""/>
-<div>
+   <img src="https://komarev.com/ghpvc/?username=KonstantinMazurow&style=for-the-badge&color=blue" alt=""/>
+</div>
 
 <h1 align='center'>
 Hi there 👋 I'm Konstantin 👨‍💻
@@ -22,7 +22,7 @@ Hi there 👋 I'm Konstantin 👨‍💻
  
 ---
 
-  
+<div>  
 ### 💻 About Me :
 
 - 💻 I'm studying to be a Python web application developer.
@@ -32,7 +32,7 @@ Hi there 👋 I'm Konstantin 👨‍💻
 - 💻 Blender 3D modeler.
 
 - :mailbox: How to reach me: 
-<div>  
+</div>  
 konstantin.mazurow@gmail.com
 <div> 
 <div align="center"> 
