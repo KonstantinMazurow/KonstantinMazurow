@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<div>
 
-</div align="center"> 
+<div align="center"> 
    <img src="https://komarev.com/ghpvc/?username=KonstantinMazurow&style=flat-square&color=blue" alt=""/>
 <div>
 
@@ -15,13 +15,13 @@ Hi there 👋 I'm Konstantin 👨‍💻
 <div align='center'>
   💻 My workspace Asus ROG Strix<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/AMD%20-Ryzen%207%205800H-blue?style=for-the-badge&logo=AMD&logoColor=green" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-<div>
+  <img src="https://img.shields.io/badge/NVIDIA%20-RTX3050-success?style=for-the-badge&logo=nvidia&logoColor=white" />
+</div>
  
 ---
-<div>
+
   
 ### 💻 About Me :
 
@@ -32,7 +32,7 @@ Hi there 👋 I'm Konstantin 👨‍💻
 - 💻 Blender 3D modeler.
 
 - :mailbox: How to reach me: 
-  
+<div>  
 konstantin.mazurow@gmail.com
 <div> 
 <div align="center"> 
