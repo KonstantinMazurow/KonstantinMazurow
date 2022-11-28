@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://img.freepik.com/premium-vector/coding-programmer-laptop-internet-work-concept-hand-drawn-hand-of-programmer-on-laptop-with-code-concept-sketch_160308-2737.jpg" width="900" height="600"/>
 </div>
 
 <div align="center"> 
@@ -22,19 +22,21 @@ Hi there 👋 I'm Konstantin 👨‍💻
  
 ---
 
-<div>  
-### 💻 About Me :
-
-- 💻 I'm studying to be a Python web application developer.
-
-- 💻 Completed a development course in the C++.
+<div align='center'>
   
-- 💻 Blender 3D modeler.
+💻 About Me :
+</div>
+<div>
+  
+ - 💻 I'm studying to be a Python web application developer.
 
-- :mailbox: How to reach me: 
-</div>  
-konstantin.mazurow@gmail.com
-<div> 
+ - 💻 Completed a development course in the C++.
+  
+ - 💻 Blender 3D modeler.
+
+ - :mailbox: How to reach me:  konstantin.mazurow@gmail.com
+</div> 
+
 <div align="center"> 
 <a href="https://www.linkedin.com/in/konstantin-mazurow-626453137/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"> 
 <a href="https://www.facebook.com/mazurow.konstantin"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge">
