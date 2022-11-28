@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.freepik.com/premium-vector/coding-programmer-laptop-internet-work-concept-hand-drawn-hand-of-programmer-on-laptop-with-code-concept-sketch_160308-2737.jpg" width="900" height="600"/>
+  <img src="https://img.freepik.com/premium-vector/coding-programmer-laptop-internet-work-concept-hand-drawn-hand-of-programmer-on-laptop-with-code-concept-sketch_160308-2737.jpg" width="600" height="400"/>
 </div>
 
 <div align="center"> 
@@ -21,11 +21,11 @@ Hi there 👋 I'm Konstantin 👨‍💻
 </div>
  
 ---
-
 <div align='center'>
-  
-💻 About Me :
+###💻 About Me :
+
 </div>
+
 <div>
   
  - 💻 I'm studying to be a Python web application developer.
@@ -45,6 +45,7 @@ Hi there 👋 I'm Konstantin 👨‍💻
 
   
 ---
+  
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -54,7 +55,9 @@ Hi there 👋 I'm Konstantin 👨‍💻
 ---
 
 ### :fire: My Stats :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KonstantinMazurow&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KonstantinMazurow&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 <!--
